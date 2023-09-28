@@ -1,0 +1,29 @@
+body {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-left: 27%;
+    margin-right: 27%;
+    background-image: url(./image/background.jpg);
+    color: #333333;
+}
+
+hr{
+    background-color: gray;border: none; border-radius: 2px; height: 5px;
+}
+
+.nem{
+    display: flex;
+}
+img{
+    margin-top: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.divImg{
+    margin-left: auto;
+}
+
+#middle{
+    margin-left: 6%;
+}
